@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="assets/banner.png" alt="Behzad Hassan Banner" width="100%">
 
 ```
 ██████╗ ███████╗██╗  ██╗███████╗ █████╗ ██████╗
