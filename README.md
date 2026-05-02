@@ -13,7 +13,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Real-Time+Computer+Vision+%F0%9F%91%81%EF%B8%8F;End-to-End+AI+%26+ML+Pipelines+%F0%9F%94%A5;Final-Year+CS+%40+Sukkur+IBA+University" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-behzadhassan.dev-00F7FF?style=for-the-badge&logo=vercel&logoColor=black)](https://behzadhassan.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-behzadhassan.dev-00F7FF?style=for-the-badge&logo=vercel&logoColor=black)](https://behzadhassan-dev.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Behzad_Hassan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/behzad-hassan-bx28)
 [![Kaggle](https://img.shields.io/badge/Kaggle-BehzadHassan-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/behzadhassan)
 [![Email](https://img.shields.io/badge/Email-behzadhassan967@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:behzadhassan967@gmail.com)
